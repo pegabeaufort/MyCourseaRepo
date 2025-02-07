@@ -1,2 +1,2 @@
 # MyCourseaRepo
-GitHub Test Repository for Coursea
+Welcome to my GitHub Test Repository for Coursea
